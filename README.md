@@ -23,13 +23,6 @@ Here you’ll find a collection of my featured projects in **game development, A
 
 ---
 
-### 🌍 Procedural Worlds
-- **Tech:** UE5, C++, Houdini
-- **Description:** Large-scale, procedurally generated worlds with biomes, weather systems, and dynamic storytelling.
-- [🎥 Demo Video](https://youtu.be/yourdemo) | [📂 Source Code](projects/procedural-worlds)
-
----
-
 ## 🛠️ Skills
 - Unreal Engine 5 (Blueprints + C++)
 - Artificial Intelligence & NPC Behavior
@@ -41,6 +34,5 @@ Here you’ll find a collection of my featured projects in **game development, A
 ---
 
 ## 📬 Get in Touch
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio Website](https://your-portfolio-link)
+- [LinkedIn](https://www.linkedin.com/in/jalsalgado/)
+- [Portfolio Website]([https://your-portfolio-link](https://unreal-maestro.preview.emergentagent.com/))
