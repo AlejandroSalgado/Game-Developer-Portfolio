@@ -12,7 +12,7 @@ Here you’ll find a collection of my featured projects in **game development, A
 ### 🔫 First Person Shooter (FPS) with UMG and Animations
 - **Tech:** Unreal Engine 5, C++, Enemy-AI, Blueprints, Combat System, TreeBehaviour
 - **Description:** First Person Shooter (FPS) project developed in Unreal Engine 5 featuring advanced AI-driven combat algorithms and pathfinding for dynamic enemy behavior. Designed and implemented a full combat system including guns, shooting mechanics, and health management. Integrated Tree Behaviors for smooth and reactive enemy animations, along with UMG-based UI elements for player feedback such as health bars and hit indicators. This project showcases gameplay logic, AI design, and animation blending for a complete FPS experience built with C++ and Blueprints.
-- [🎥 Demo Video]([https://youtu.be/yourdemo](https://youtu.be/AE423fI1b1A)) | [📂 Source Code](projects/ai-npc-behavior)
+- [🎥 Demo Video](https://youtu.be/AE423fI1b1A) | [📂 Source Code](projects/ai-npc-behavior)
 
 ---
 
