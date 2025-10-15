@@ -9,27 +9,31 @@ Here you’ll find a collection of my featured projects in **game development, A
 
 ## 🚀 Featured Projects
 
-### 🧠 AI-Driven NPC Behavior
-- **Tech:** Unreal Engine 5, C++, Machine Learning
-- **Description:** Adaptive NPCs that learn from player behavior to create dynamic, challenging encounters.
-- [🎥 Demo Video](https://youtu.be/yourdemo) | [📂 Source Code](projects/ai-npc-behavior)
+### 🔫 First Person Shooter (FPS) with UMG and Animations
+- **Tech:** Unreal Engine 5, C++, Enemy-AI, Blueprints, Combat System, TreeBehaviour
+- **Description:** First Person Shooter (FPS) project developed in Unreal Engine 5 featuring advanced AI-driven combat algorithms and pathfinding for dynamic enemy behavior. Designed and implemented a full combat system including guns, shooting mechanics, and health management. Integrated Tree Behaviors for smooth and reactive enemy animations, along with UMG-based UI elements for player feedback such as health bars and hit indicators. This project showcases gameplay logic, AI design, and animation blending for a complete FPS experience built with C++ and Blueprints.
+- [🎥 Demo Video]([https://youtu.be/yourdemo](https://youtu.be/AE423fI1b1A)) | [📂 Source Code](projects/ai-npc-behavior)
 
 ---
 
-### 🕶️ VR Escape Room
-- **Tech:** Unreal Engine 5, Blueprints, Oculus SDK
-- **Description:** A multiplayer VR experience where players solve puzzles collaboratively in a fully immersive escape room.
-- [🎥 Demo Video](https://youtu.be/yourdemo) | [📂 Source Code](projects/vr-escape-room)
+### 🌐 Online Subsystem with Steam
+- **Tech:** Unreal Engine 5, Blueprints, Steam Online Subsystem, Personalized Multiplayer Plugin, UMG, C++.
+- **Description:** Seamlessly integrated Steam multiplayer in Unreal Engine 5 using the Online Subsystem. Players can host or join sessions with friends through a simple UMG menu. Built with Blueprints and C++, this system handles session creation, discovery, and connection — making multiplayer setup effortless.
+- [🎥 Demo Video](https://youtu.be/WIkf-BLRFQQ) | [📂 Source Code](projects/vr-escape-room)
 
 ---
 
 ## 🛠️ Skills
 - Unreal Engine 5 (Blueprints + C++)
 - Artificial Intelligence & NPC Behavior
-- VR/AR Development
-- 3D Modeling (Blender)
+- Combat System Design (Weapons, Damage, Health)
+- Animation Blueprints & Behavior Trees
+- UMG Interface & HUD Design
 - Procedural Generation
-- Multiplayer Systems
+- Multiplayer Systems (Steam Subsystem Integration)
+- Version Control (Git + GitHub)
+- Physics & Particle Systems
+- 3D Asset Integration
 
 ---
 
