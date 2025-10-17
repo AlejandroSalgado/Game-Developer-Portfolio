@@ -22,7 +22,7 @@ Here you’ll find a collection of my featured projects in **game development, A
 ### 🌐 Online Subsystem with Steam
 - **Tech:** Unreal Engine 5, Blueprints, Steam Online Subsystem, Personalized Multiplayer Plugin, UMG, C++.
 - **Description:** Seamlessly integrated Steam multiplayer in Unreal Engine 5 using the Online Subsystem. Players can host or join sessions with friends through a simple UMG menu. Built with Blueprints and C++, this system handles session creation, discovery, and connection — making multiplayer setup effortless.
-- [🎥 Demo Video](https://youtu.be/WIkf-BLRFQQ) | [📂 Source Code]([projects/vr-escape-room](https://github.com/AlejandroSalgado/Game-Developer-Portfolio/tree/main/projects/MultiplayerSessions/code-snippets))
+- [🎥 Demo Video](https://youtu.be/WIkf-BLRFQQ) | [📂 Source Code]([projects/vr-escape-room](https://github.com/AlejandroSalgado/Game-Developer-Portfolio/tree/main/projects/MultiplayerSessions/code-snippets)
 
 ---
 
