@@ -16,13 +16,14 @@ Here you’ll find a collection of my featured projects in **game development, A
 - **Tech:** Unreal Engine 5, C++, Enemy-AI, Blueprints, Combat System, TreeBehaviour
 - **Description:** First Person Shooter (FPS) project developed in Unreal Engine 5 featuring advanced AI-driven combat algorithms and pathfinding for dynamic enemy behavior. Designed and implemented a full combat system including guns, shooting mechanics, and health management. Integrated Tree Behaviors for smooth and reactive enemy animations, along with UMG-based UI elements for player feedback such as health bars and hit indicators. This project showcases gameplay logic, AI design, and animation blending for a complete FPS experience built with C++ and Blueprints.
 - [🎥 Demo Video](https://youtu.be/AE423fI1b1A) | [📂 Source Code](https://github.com/AlejandroSalgado/Game-Developer-Portfolio/tree/main/projects/FPS/code-snippets)
-
----
-
 ### 🌐 Online Subsystem with Steam
 - **Tech:** Unreal Engine 5, Blueprints, Steam Online Subsystem, Personalized Multiplayer Plugin, UMG, C++.
 - **Description:** Seamlessly integrated Steam multiplayer in Unreal Engine 5 using the Online Subsystem. Players can host or join sessions with friends through a simple UMG menu. Built with Blueprints and C++, this system handles session creation, discovery, and connection — making multiplayer setup effortless.
 - [🎥 Demo Video](https://youtu.be/WIkf-BLRFQQ) | [📂 Source Code]([projects/vr-escape-room](https://github.com/AlejandroSalgado/Game-Developer-Portfolio/tree/main/projects/MultiplayerSessions/code-snippets)
+### 🎯 Tank Assault Prototype
+- **Tech:** Unreal Engine 5, C++, Blueprints, AI Behavior Trees, Projectile & Health Systems, Combat System, Input Mapping for Player Controls, Line of Sight, Perception Systems
+- **Description:** A fast-paced UE5 project where AI turrets track and shoot automatically while you control a tank using smooth keyboard + mouse controls. Built with C++, Blueprints, and Behavior Trees for smart combat and reactive gameplay.
+- [🎥 Demo Video](https://youtu.be/G9XpZZ7nkqw) | [📂 Source Code]([projects/vr-escape-room](https://github.com/AlejandroSalgado/Game-Developer-Portfolio/tree/main/projects/TankAssault/code-snippets)
 
 ---
 
